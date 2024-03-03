@@ -1,0 +1,23 @@
+From d7f84bcbe09319c87e4aafe9c721f3d71e7959ae Mon Sep 17 00:00:00 2001
+From: mokhalid721 <110266810+mokhalid721@users.noreply.github.com>
+Date: Sat, 2 Mar 2024 16:14:48 -0800
+Subject: [PATCH 2/2] Add .gitignore
+
+---
+ .gitignore | Bin 0 -> 30 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 .gitignore
+
+diff --git a/.gitignore b/.gitignore
+new file mode 100644
+index 0000000000000000000000000000000000000000..e8d2eb906977ec9e5ba195357ef944809a3ea4a9
+GIT binary patch
+literal 30
+ccmezWFPEW`A)cXtA(5ekA(<hAK@W)y0FT56kpKVy
+
+literal 0
+HcmV?d00001
+
+-- 
+2.37.1.windows.1
+

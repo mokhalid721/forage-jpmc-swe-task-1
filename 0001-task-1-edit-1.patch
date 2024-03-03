@@ -1,0 +1,22 @@
+From 60bea5e63004f6f90c9de7fc70a71cdec11eac2e Mon Sep 17 00:00:00 2001
+From: mokhalid721 <110266810+mokhalid721@users.noreply.github.com>
+Date: Sat, 2 Mar 2024 16:06:44 -0800
+Subject: [PATCH 1/2] task 1 edit 1
+
+---
+ client3.py | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/client3.py b/client3.py
+index 1c3fb55..cd1e981 100644
+--- a/client3.py
++++ b/client3.py
+@@ -59,4 +59,4 @@ if __name__ == "__main__":
+             stock, bid_price, ask_price, price = getDataPoint(quote)
+             print("Quoted %s at (bid:%s, ask:%s, price:%s)" % (stock, bid_price, ask_price, price))
+ 
+-        print("Ratio %s" % getRatio(price, price))
++        print("Ratio %s" % getRatio(price["ABC"], price["DEF"]))
+-- 
+2.37.1.windows.1
+
